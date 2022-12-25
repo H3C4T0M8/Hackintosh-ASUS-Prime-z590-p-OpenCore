@@ -10,7 +10,7 @@ Samsung SSD 850 EVO (Sata) 500GB
 
 
 
-OpenCore 0.7.7
+OpenCore 0.8.8 Developer
 Imac20,1
 Getestet mit Catalina und Big Sur und Monterey
 Igpu Device Property's müssen selbst gesetzt werden !!!
